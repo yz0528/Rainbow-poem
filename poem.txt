@@ -4,7 +4,7 @@ Purple
 Pink
 Orange
 Bule
-Green
 Yellow
+Green
 Red
 These are the colors of the rainbow
